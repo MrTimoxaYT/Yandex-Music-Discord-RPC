@@ -36,7 +36,7 @@ while True:
         details="Сейчас играет: " + title,
         state="Исполнитель: " + artists,
         large_image=image_link,
-        small_image="Link for small image",
+        small_image="Link for small image if you want",
         large_text="Your Text Here",
         small_text="Your Text Here",
         buttons=btns  
