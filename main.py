@@ -6,7 +6,7 @@ import time
 TOKEN = "Your TOKEN HERE"
 
 # This is Aplications ID
-client_id = "Your APPLICATION ID HERE"
+client_id = Your APPLICATION ID HERE
   
 # Inicalize the RPC  
 RPC = Presence(client_id=client_id)
