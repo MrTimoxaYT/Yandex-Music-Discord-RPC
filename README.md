@@ -30,4 +30,4 @@ ____
 ____
 
 # Пример:
-<p align="center"> <img src="https://github.com/MrTimoxaYT/Yandex-Music-Discord-RPC/blob/main/img/preview.jpg" width="350"/></p> 
+<p align="center"> <img src="https://github.com/MrTimoxaYT/Yandex-Music-Discord-RPC/blob/main/img/preview.jpg"></p> 
