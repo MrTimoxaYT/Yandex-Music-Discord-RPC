@@ -27,7 +27,7 @@ while True:
     image_link="https://" + last_track.cover_uri.replace("%%", "1000x1000")
     btns = [
             { 
-        "label": "Слушать на Яндекс.Музыке",
+        "label": "Слушать Трек",
         "url": track_link
             }
     ]
