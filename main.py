@@ -42,4 +42,4 @@ while True:
         buttons=btns  
     )
     
-    time.sleep(1) # update the rpc status (in seconds), defaulting: 1 
+    time.sleep(1) # update the rpc status (in seconds), default: 1 
