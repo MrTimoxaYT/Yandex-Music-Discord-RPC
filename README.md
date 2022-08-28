@@ -30,4 +30,4 @@ ____
 ____
 
 # Пример:
-[image](https://github.com/MrTimoxaYT/Yandex-Music-Discord-RPC/blob/main/img/preview.jpg)
+![alt text](https://github.com/MrTimoxaYT/Yandex-Music-Discord-RPC/blob/main/img/preview.jpg)
