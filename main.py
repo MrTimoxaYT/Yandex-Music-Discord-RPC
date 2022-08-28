@@ -33,7 +33,7 @@ while True:
     ]
 
     RPC.update(
-        details="Сейчас играет: " + title,
+        details="Слушает: " + title,
         state="Исполнитель: " + artists,
         large_image=image_link,
         small_image="Link for small image if you want",
