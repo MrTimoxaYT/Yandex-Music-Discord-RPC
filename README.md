@@ -17,13 +17,9 @@ ____
 
 Вы можете установить или обновить Yandex Music API при помощи:
 
-.. code:: shell
-
     pip install yandex-music --upgrade
 
 Или Вы можете установить из исходного кода с помощью:
-
-.. code:: shell
 
     git clone https://github.com/MarshalX/yandex-music-api
     cd yandex-music-api
