@@ -26,3 +26,8 @@ ____
     git clone https://github.com/MarshalX/yandex-music-api
     cd yandex-music-api
     python setup.py install
+
+____
+
+# Пример:
+[image](https://github.com/MrTimoxaYT/Yandex-Music-Discord-RPC/blob/main/img/preview.jpg)
