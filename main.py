@@ -1,13 +1,14 @@
 from pypresence import Presence
 from yandex_music import Client
+from config import *
 import time
 
 #Yandex token. You can get it from "get_yandex_token.py"
-TOKEN = "Your TOKEN HERE"
+TOKEN = token
 
 # This is Aplications ID
-client_id = Your APPLICATION ID HERE
-  
+client_id = discord_application
+
 # Inicalize the RPC  
 RPC = Presence(client_id=client_id)
 RPC.connect()
